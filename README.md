@@ -8,10 +8,14 @@ The goal of GeoNLP projects is to develop a toponym-based information systems fo
 
 ## GeoNLP Information
 
+GeoNLP information is available only in Japanese.
+
 - [Overview](http://agora.ex.nii.ac.jp/GeoNLP/)
 - [News](http://agora.ex.nii.ac.jp/GeoNLP/news/)
 
-## GeoNLP and Related Tools
+## Tools Developed in GeoNLP and Related Projects
+
+Three open source projects are ongoing in the GeoNLP project and related projects. 
 
 - [PyGeoNLP](https://geonlp.ex.nii.ac.jp/pygeonlp/)
 - [PyGeoNLP WebAPI](https://geonlp.ex.nii.ac.jp/pygeonlp-webapi/)
